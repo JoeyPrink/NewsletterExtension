@@ -1,4 +1,4 @@
 NewsletterExtension
 ===================
 
-Free and simple newsletter extension for Typo3
+Free and simple newsletter extension for Typo3.
